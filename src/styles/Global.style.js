@@ -17,4 +17,4 @@ export const GlobalStyle = createGlobalStyle`
         font-family: "Do Hyeon", sans-serif;
         color: #272727;
     }
-`
+`;
