@@ -4,7 +4,7 @@
 
 ## Description  
 
-Stay organized. Stay motivated. This application displays spreedsheet/database information from Airtable.com.  Add your goals, on Airtable.com, and watch them be displayed via this React application. 
+Stay organized. Stay motivated. This application displays spreadsheet/database information from Airtable.com.  Add your goals, on Airtable.com, and watch them be displayed via this React application. 
 
 ## Table of Contents
 - Installation 
